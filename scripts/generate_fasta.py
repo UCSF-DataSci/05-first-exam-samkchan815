@@ -19,18 +19,3 @@ with open(output, 'w') as file:
 file.close()
 
 print('Random DNA sequence generated and saved to 05-first-exam-samkchan815/data/random_sequence.fasta')
-
-# TESTING -----------------
-# with open(output, 'r') as file:
-#     count = 0
-#     while True:
-#         line = file.readline()
-#         if not line:
-#             break
-#         line = line.strip()
-#         count += len(line)
-
-# print(count)
-
-
-# file.close()

@@ -1,0 +1,9 @@
+Analyzing cut site: GGATCC
+Total cut sites found: 249
+Cut site pairs 80-120 kbp apart: 2379
+First 5 pairs:
+1. 9852 - 90252
+2. 9852 - 92864
+3. 9852 - 97470
+4. 9852 - 109077
+5. 9852 - 109634
