@@ -4,7 +4,6 @@
 - This exam consists of four interconnected questions that will guide you through a bioinformatics project workflow.
 - Submit your solutions as separate files with the names specified in each question.
 - Make sure your code is well-commented and follows good programming practices.
-- You may use any built-in Python libraries or standard command-line tools, but no external packages.
 
 ## Question 1: Project Setup (15 points)
 
