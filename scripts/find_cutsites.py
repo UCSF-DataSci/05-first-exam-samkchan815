@@ -65,11 +65,10 @@ if __name__ == "__main__":
     pairs = find_pairs(cuts) # find distance pairs
 
     outputFile = '/mnt/c/Users/wammi/OneDrive/Desktop/datasci217/05-first-exam-samkchan815/results/cutsite_summary.txt'
-    cutSite = args.sequence.replace('|', '')
 
     # output results in output file
     with open(outputFile, 'w') as file:
-        file.write(f'Analyzing cut site: {cutSite}\n')
+        file.write(f'Analyzing cut site: {args.sequence}\n')
         file.write(f'Total cut sites found: {len(cuts)}\n')
         file.write(f'Cut site pairs 80-120 kbp apart: {len(pairs)}\n')
         file.write(f'First 5 pairs:\n')
