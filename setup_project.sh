@@ -16,7 +16,12 @@ echo "This project contains three directories: data, scripts, and results" > REA
 echo "" >> README.md
 echo "The Scripts folder has 3 files" >> README.md
 echo "    generate_fasta.py, dna_operations.py, find_cutsites.py" >> README.md
+echo "" >> README.md
 echo "The results folder has a text file called cutsite_summary.txt" >> README.md
+echo "" >> README.md
 echo "The data folder has a fasta file named random_sequence.fasta" >> README.md
 
 chmod +x setup_project.sh
+
+echo "Project directory structure created successfully:"
+tree /mnt/c/Users/wammi/OneDrive/Desktop/datasci217/05-first-exam-samkchan815
