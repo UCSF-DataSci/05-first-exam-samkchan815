@@ -24,4 +24,4 @@ echo "The data folder has a fasta file named random_sequence.fasta" >> README.md
 chmod +x setup_project.sh
 
 echo "Project directory structure created successfully:"
-tree /mnt/c/Users/wammi/OneDrive/Desktop/datasci217/05-first-exam-samkchan815
+tree .
